@@ -1,7 +1,7 @@
 {
-  "name": "content-scape-as-md",
+  "name": "scribe-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js CLI tool that scrapes blog posts, downloads images, and converts content to Markdown with customizable frontmatter.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
